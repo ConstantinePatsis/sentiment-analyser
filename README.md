@@ -1,2 +1,3 @@
 # sentiment-analyser
-Open-source AI tool that analyses customer reviews and extracts insights, sentiment, themes and recommendations instantly. Powered by Anthropic Claude.
+
+Open-source AI tool that turns any collection of customer reviews, hotel feedback, or app store ratings into structured insights. Paste reviews, get sentiment score, key themes, top complaints, recommendations and notable quotes. Built with Claude.
